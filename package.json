@@ -1,0 +1,25 @@
+{
+  "name": "srt-loader",
+  "version": "0.0.1",
+  "description": "A webpack loader for .srt files",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xseignard/srt-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "srt"
+  ],
+  "author": "Xavier Seignard <xavier.seignard@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xseignard/srt-loader/issues"
+  },
+  "homepage": "https://github.com/xseignard/srt-loader#readme",
+  "dependencies": {
+    "subtitles-parser": "0.0.2"
+  }
+}
